@@ -31,7 +31,7 @@ Apenas é necessário baixar o projeto e executa-lo em um simulador de sua prefe
 
 - [x] Crie um aplicativo simples para acessar o conteúdo da API, e listar em uma
   página todos os posts retornados no endpoint.
-- [ ] Ao clicar em algum dos itens, abra uma segunda tela mostrando
+- [x] Ao clicar em algum dos itens, abra uma segunda tela mostrando
   apenas o Título e o corpo do item clicado.
 
 ## [Créditos](#sobre)
