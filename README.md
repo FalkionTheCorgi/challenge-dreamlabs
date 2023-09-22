@@ -6,7 +6,6 @@
 - [Tecnologias](#tecnologias)
 - [Como Utilizo o Projeto?](#como-utilizo-o-projeto)
 - [Obrigatórios](#obrigatórios)
-- [Diferenciais](#diferenciais)
 - [Créditos](#créditos)
 
 ## [Breve Descrição](#sobre)
