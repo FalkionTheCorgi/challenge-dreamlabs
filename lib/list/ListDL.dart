@@ -7,8 +7,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-
-import '../api/data/JsonResponse.dart';
 import 'ListDLViewModel.dart';
 
 class ListDL extends ConsumerStatefulWidget {
@@ -31,7 +29,6 @@ class ListDLState extends ConsumerState<ListDL>{
   @override
   void initState(){
     final model = ref.read(listDLViewModel);
-    final jsonDataRepo = ref.read(jsonDataRepository);
     scrollController = ScrollController();
     scrollController.addListener(scrollListener);
     model.getJson();
