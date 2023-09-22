@@ -1,16 +1,41 @@
-# dreamlabs_challenge
+# Desafio Dicionário
 
-Dreamlabs Challenge
+## Sobre
 
-## Getting Started
+- [Breve Descrição](#breve-descrição)
+- [Tecnologias](#tecnologias)
+- [Como Utilizo o Projeto?](#como-utilizo-o-projeto)
+- [Obrigatórios](#obrigatórios)
+- [Diferenciais](#diferenciais)
+- [Créditos](#créditos)
 
-This project is a starting point for a Flutter application.
+## [Breve Descrição](#sobre)
 
-A few resources to get you started if this is your first Flutter project:
+Esse desafio tem como objetivo, extrair dados de API e preencher uma lista com esses dados.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## [Tecnologias](#sobre)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Esse aplicativo utilizou as seguintes tecnologias:
+
+- Flutter
+- Dart
+- [Sqflite](https://pub.dev/packages/sqflite)
+- [Riverpod](https://pub.dev/packages/riverpod)
+- [Http](https://pub.dev/packages/http)
+- [JsonPlaceholder](https://jsonplaceholder.typicode.com/guide/)
+
+## [Como Utilizo o Projeto?](#sobre)
+
+Apenas é necessário baixar o projeto e executa-lo em um simulador de sua preferência.
+
+## [Obrigatórios](#sobre)
+
+- [x] Crie um aplicativo simples para acessar o conteúdo da API, e listar em uma
+  página todos os posts retornados no endpoint.
+- [ ] Ao clicar em algum dos itens, abra uma segunda tela mostrando
+  apenas o Título e o corpo do item clicado.
+
+## [Créditos](#sobre)
+
+Esse desafio foi disponibilizado pela [Dreamlabs](https://dreamlabs.com.br/).
+
